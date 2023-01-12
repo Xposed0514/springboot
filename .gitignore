@@ -2,3 +2,5 @@
 /boot-01-helloworld/*.iml
 /boot-01-helloworld/target
 /boot-01-helloworld/.idea
+/boot-01-helloworld-2/mvnw.cmd
+/boot-01-helloworld-2/mvnw
