@@ -86,6 +86,12 @@ public class MainApplication {
         boolean hehe = run.containsBean("hehe");
         System.out.println("容器中是否有hehe组件:" + hehe);
 
+        boolean hehe1 = run.containsBeanDefinition("hehe");
+        System.out.println("容器中是否有hehe1组件:" + hehe1);
+
+//        boolean Test = run.c("Test");
+//        System.out.println("容器中是否有Test组件:" + Test);
+
 
     }
 }
